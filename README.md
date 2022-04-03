@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajeeb Debnath</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Django and React Js developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [HourlyFinder](https://github.com/Rashed360/hourly-finder)
 
