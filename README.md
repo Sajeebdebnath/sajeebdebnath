@@ -1,6 +1,5 @@
 ![image](https://i.postimg.cc/2STcJh37/My-Linked-In-Banner-1.png)
 <h1 align="center">Hi 👋, I'm Sajeeb Debnath</h1>
-<h3 align="center">A passionate Django and React Js developer from Bangladesh</h3>
 <p>A self-taught, passionate and quick-learner full-stack developer from Dhaka, BD. I love to work with new technologies and developing web applications like Django Rest Framework, ReactJs, Redux, Bootstrap 5, HTML, CSS etc. I'm looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development. <p>
 
 - 🔭 I’m currently working on [HourlyFinder](https://github.com/Rashed360/hourly-finder)
