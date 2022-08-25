@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sajeeb Debnath</h1>
 <p>A self-taught, passionate and quick-learner full-stack developer from Dhaka, BD. I love to work with new technologies and developing web applications like Django Rest Framework, ReactJs, Redux, Bootstrap 5, HTML, CSS etc. I'm looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development. <p>
 
-- 🔭 I’m currently working on [HourlyFinder](https://github.com/Rashed360/hourly-finder)
+- 🔭 I’m currently working as Frontend Developer at [Star Tech & Engineering](https://www.startech.com.bd/)
 
 - 🌱 I’m currently learning **React, Django, Flask etc**
 
