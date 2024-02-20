@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Frontend Developer at [Star Tech & Engineering](https://www.startech.com.bd/)
 
-- 🌱 I’m currently learning **React, Django, Flask etc**
+- 🌱 I’m currently learning **Vue, React, Java Grails, OpenCart, Django, Flask etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sajeebdebnath?tab=repositories](https://github.com/Sajeebdebnath?tab=repositories)
 
