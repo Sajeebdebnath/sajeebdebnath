@@ -1,8 +1,9 @@
-![image](https://i.postimg.cc/2STcJh37/My-Linked-In-Banner-1.png)
-<h1 align="center">Hi 👋, I'm Sajeeb Debnath</h1>
-<p>A self-taught, passionate and quick-learner full-stack developer from Dhaka, BD. I love to work with new technologies and developing web applications like Django Rest Framework, ReactJs, Redux, Bootstrap 5, HTML, CSS etc. I'm looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development. <p>
+[![Sajejeb-Debnath-Software-Engineer-3.png](https://i.postimg.cc/pT23Ssx4/Sajejeb-Debnath-Software-Engineer-3.png)](https://postimg.cc/McFsMbnm)
 
-- 🔭 I’m currently working as Software Engineer at [Star Tech & Engineering](https://www.startech.com.bd/)
+<h1 align="center">Hi 👋, I'm Sajeeb Debnath</h1>
+<p>A self-taught, passionate and quick-learner full-stack developer from Dhaka, BD. I love to work with new technologies and developing web applications like Opencart, Vue JS, Java Grails, Django Rest Framework, ReactJs, Redux, Bootstrap 5, HTML, CSS etc. I'm looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development. <p>
+
+- 🔭 I’m currently working as Software Engineer at [Star Tech Ltd.](https://www.startech.com.bd/)
 
 - 🌱 I’m currently learning **Vue, React, Java Grails, OpenCart, Django, Flask etc**
 
@@ -12,14 +13,13 @@
 
 - 📫 How to reach me **Sajeebdebnath.cse@gmail.com**
 
-- 📄 Know about my experiences https://sites.google.com/view/sajeebdebnath
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sajeebdebnath/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sajeebdebnath.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajeebdebnath.cse" height="30" width="40" /></a><a href="https://linkedin.com/in/sajeebdebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajeebdebnath" height="30" width="40" /></a><a href="https://twitter.com/sajeebcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajeebcse" height="30" width="40" /></a><a href="https://codesandbox.com/sajeebdebnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sajeebdebnath" height="30" width="40" /></a>
 </p>
 
-  
 <table width="100%">
 <tr>
 <td width="60%">
@@ -51,7 +51,6 @@
 </td>
   </tr>
 </table>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeebdebnath&show_icons=true&locale=en&layout=compact" alt="sajeebdebnath" /></p>
 
