@@ -5,12 +5,12 @@
 
 <p>I specialize in building high-performance, scalable eCommerce platforms tailored for the local and global market. With over 3 years of hands-on experience in full-stack development, I focus on crafting seamless and optimized user experiences using technologies like <strong>PHP, OpenCart, JavaScript, Vue.js, and REST APIs</strong>.</p>
 
-<p>As an expert in OpenCart customization, I develop custom modules, integrate third-party APIs, and ensure fast, SEO-friendly, and secure online stores. I'm also skilled in front-end frameworks like <strong>Vue.js, React, Bootstrap</strong>, and back-end technologies like <strong>Django REST, Java Grails, and PHP</strong>.</p>
+<p>As an expert in OpenCart customization, I develop custom modules, integrate third-party APIs, and ensure fast, SEO-friendly, and secure online stores. I'm also skilled in front-end frameworks like <strong>Vue.js, React, Bootstrap</strong>, and back-end technologies like <strong>Django REST, Java Grails, Spring Boot and PHP</strong>.</p>
 
 <p>I follow industry best practices, write clean, maintainable code, and have strong knowledge in <strong>SEO, web hosting, database design (MySQL, Firebase)</strong>, and version control systems (Git, GitHub, Bitbucket). I'm passionate about contributing to impactful digital projects that elevate the local tech ecosystem while meeting global standards.</p>
 
 - 🔭 I’m currently working at **[Star Tech Ltd.](https://www.startech.com.bd/)**
-- 🌱 Currently learning: **Vue, React, Java Grails, Django, Flask**
+- 🌱 Currently learning: **Vue, Java Grails, Spring Boot, Laravel**
 - 👨‍💻 All projects: [GitHub Repositories](https://github.com/Sajeebdebnath?tab=repositories)
 - 💬 Ask me about: **OpenCart, Full-stack Web Development**
 - 📫 Reach me: **Sajeebdebnath.cse@gmail.com**
